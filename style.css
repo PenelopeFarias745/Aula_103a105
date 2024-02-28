@@ -1,0 +1,23 @@
+body
+{
+    color: white;
+    background-color: cadetblue;
+}
+
+.heading
+{
+    font-size: 22px;
+    width: 80%;
+}
+
+.nameOfObjects, #resultOfObjects, #resultOfAccuracy
+{
+    color: rgb(50, 49, 49);
+}
+
+#camera
+{
+    border: 2px double white;
+    width: 350px;
+    height: 300px;
+}
